@@ -12,4 +12,4 @@ decoding a protein structure from them and calculating its potential energy.
 - Notebook `MC` provides the code for loading the trained model, conducting MCMC simulation using the decoder, and analysing the sampled 
 population of structures.
 
--Notebooks `analyse_ls` and `MC` can be ran straight after the ML model is prepared in `ae` in any order.
+Notebooks `analyse_ls` and `MC` can be ran straight after the ML model is prepared in `ae` in any order.
